@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! Walang bawian hah 💓",
+        message: "Kitakits!😉",
+        emojis: "🎁💖🤗💕"  // These will bounce around
     },
 
     // Color scheme for the website
